@@ -27,8 +27,9 @@ LooneyPwner exploits the "Looney Tunables" flaw, targeting affected glibc versio
 
 # Usage
 
-``chmod +x looneypwner.sh
-./looneypwner.sh``
+```bash
+chmod +x looneypwner.sh
+./looneypwner.sh
 
 # Disclaimer
 
