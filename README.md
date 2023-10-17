@@ -31,6 +31,7 @@ LooneyPwner exploits the "Looney Tunables" flaw, targeting affected glibc versio
 chmod +x looneypwner.sh
 ./looneypwner.sh
 ```
+![looney](https://github.com/chaudharyarjun/LooneyPwner/assets/66072013/0c48c4a6-d3bd-407d-943d-736a337b5830)
 
 # Disclaimer
 
