@@ -10,20 +10,20 @@ The vulnerability in the GNU C Library (glibc) was disclosed last week, with not
 
 Unauthorized root access provides attackers unrestricted authority, enabling them to:
 
-    Modify, delete, or steal sensitive data.
-    Install malicious software or backdoors.
-    Facilitate ongoing attacks that may remain undetected for extended periods.
-    Cause data breaches, accessing customer data, intellectual property, and financial records.
-    Disrupt critical system operations, potentially causing service outages and harming an organization's reputation.
+   * Modify, delete, or steal sensitive data.
+   * Install malicious software or backdoors.
+   * Facilitate ongoing attacks that may remain undetected for extended periods.
+   * Cause data breaches, accessing customer data, intellectual property, and financial records.
+   * Disrupt critical system operations, potentially causing service outages and harming an organization's reputation.
 
 # Tool Capabilities
 
 
 LooneyPwner exploits the "Looney Tunables" flaw, targeting affected glibc versions. The tool:
 
-    Detects the installed glibc version.
-    Checks for vulnerability status.
-    Offers an option for exploitation if vulnerable.
+   * Detects the installed glibc version.
+   * Checks for vulnerability status.
+   * Offers an option for exploitation if vulnerable.
 
 # Usage
 
